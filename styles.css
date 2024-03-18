@@ -1,0 +1,70 @@
+
+
+header{
+    margin:0px auto;
+    padding: 10px; 
+    width:85%;
+  
+}
+.colors,.textstyles,.fonts{
+    margin:10px auto;
+    padding: 10px; 
+    width:85%;
+    border: 1px solid black;
+   
+}
+
+
+ .fonts li , .colors li{
+    display: inline-block;
+    margin:1px;
+    padding:50px;
+    width: 230px;
+    text-align: center;
+    vertical-align: middle;
+}
+.lightcolar{
+    background-color: #F08080;
+}
+.violet{
+    background-color: #EE82EE;
+}
+.green{
+    background-color: #00FA9A;
+}
+.cyan{
+    background-color: #00FFFF;
+
+}
+
+
+
+ .fonts ul
+ {
+    display: inline-block;
+ }
+.hg{
+    text-align: left;
+    text-decoration: underline;
+}
+
+.gowun{
+ font-size: large;
+}
+.mw{
+    text-align: left;
+    text-decoration: underline;
+}
+.merriweather{
+    font-size: large;
+
+}
+
+.worksans{
+    font-size: large;
+}
+.ws{
+    text-align: left;
+    text-decoration: underline;
+}
+
